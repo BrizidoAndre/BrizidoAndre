@@ -1,51 +1,61 @@
-## 👋 Olá! Sou o André, Desenvolvedor de Sistemas
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Sou um desenvolvedor de sistemas **apaixonado por transformar ideias em soluções funcionais e robustas**. Minha trajetória é marcada pelo compromisso com a excelência técnica, com foco principal em **Back-end** e uma sólida proficiência em **Front-end**.
+###
 
----
+<p align="left">My name is André and I'm a Web Developer, from Brazil</p>
 
-### 🚀 Resumo Profissional e Formação
+###
 
-Minha jornada na tecnologia começou na **Etec Martin Luther King**, uma escola técnica que despertou e nutriu minha criatividade e paixão por projetos inovadores.
+<h2 align="left">About me</h2>
 
-Atualmente, estou aprimorando minhas habilidades no **SENAI Paulo Skaf**, uma instituição renomada na área de TI, onde me mantenho atualizado com as tendências mais recentes do mercado.
+###
 
-* **Foco Principal:** **Back-end** com domínio da linguagem **C#** e **PHP** para a criação de sistemas eficientes e de alta qualidade.
-* **Experiência:** Implementação de lógica de negócios complexa e integração de diferentes componentes em projetos desafiadores.
-* **Habilidades Complementares:** Proficiência em **Front-end** (HTML e CSS) para desenvolver interfaces de usuário atraentes e responsivas, visando uma ótima experiência do usuário.
-* **Ferramentas:** Sólido conhecimento em ferramentas de análise de dados como **Excel** e **Power BI** para relatórios e apresentação eficaz de informações.
+<p align="left">✨ Avid student since 2022<br>📚 I'm currently mastering all technologies related to Web developtment<br>🎯 Goals: React a gold medal in WorldSkills Shangai | Start Cloud Computing</p>
 
-Estou sempre em busca de aprendizado contínuo, aberto a desafios e novas oportunidades de colaboração em projetos empolgantes.
+###
 
----
+<h2 align="left">I code with</h2>
 
-### 🏆 Conquistas e Reconhecimento
+###
 
-Tenho orgulho de compartilhar minhas vitórias na **WorldSkills**, a maior competição de educação profissional do mundo:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" height="40" alt="eleventy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+</div>
 
-#### 🥇 Medalha de Ouro – WorldSkills SP 2025 (Fase Estadual)
-
-* **Data:** Quinta-feira, 27/02
-* **Categoria:** **#17 Tecnologias Web**
-* **Detalhes:** Fui premiado com a medalha de ouro na fase estadual. Um passo importante que garantiu minha vaga para a próxima etapa!
-
-#### 🥇 Medalha de Ouro – WorldSkills Brasil (Fase Nacional)
-
-* **Data:** 28/09
-* **Modalidade:** **#17 Tecnologia Web**
-* **Treinamento:** Foram 2 anos de treinamento intenso, abrangendo conhecimentos em **HTML, CSS, Javascript, PHP**, e muito mais, culminando nesta importante vitória nacional.
-* **Reconhecimento:** Conquistamos a medalha de ouro, um nível de excelência que me credencia a ser competidor da WorldSkills Internacional, representando o Brasil!
-
-#### 🥈 Medalha de Prata – WorldSkills Américas
-
-* **Data:** 08/11
-* **Modalidade:** **#17 Tecnologia Web**
-* **Reconhecimento:** Conquistamos a medalha de prata na competição das américas
-
----
-
-### 🌐 Conecte-se Comigo!
-
-Se você procura um desenvolvedor de sistemas **dedicado, criativo e com habilidades sólidas** em Back-end e Front-end, estou pronto para contribuir com minha paixão pela tecnologia e meu compromisso com a excelência.
-
-Ficarei encantado em conectar com profissionais da área e discutir futuras oportunidades de colaboração!
+###
