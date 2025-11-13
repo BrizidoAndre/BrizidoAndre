@@ -42,8 +42,6 @@ Tenho orgulho de compartilhar minhas vitórias na **WorldSkills**, a maior compe
 * **Modalidade:** **#17 Tecnologia Web**
 * **Reconhecimento:** Conquistamos a medalha de prata na competição das américas
 
-Agradeço imensamente ao meu treinador, **Lucas Silveira Portal**, pelo apoio diário e por me guiar durante todo o processo na Escola SENAI de Informática.
-
 ---
 
 ### 🌐 Conecte-se Comigo!
