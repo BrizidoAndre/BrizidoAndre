@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Avid student since 2022<br>📚 I'm currently mastering all technologies related to Web developtment<br>🎯 Goals: React a gold medal in WorldSkills Shangai | Start Cloud Computing</p>
+<p align="left">✨ Avid student since 2022<br>📚 I'm currently mastering all technologies related to Web developtment<br>🎯 Goals: Reach a gold medal in WorldSkills Shangai | Start Cloud Computing</p>
 
 ###
 
