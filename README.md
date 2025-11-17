@@ -1,20 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Como vai?</h1>
 
 ###
 
-<p align="left">My name is André and I'm a Web Developer, from Brazil</p>
+<p align="left">Meu nome é André e eu sou um Desenvolvedor Web do Brasil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Avid student since 2022<br>📚 I'm currently mastering all technologies related to Web developtment<br>🎯 Goals: Reach a gold medal in WorldSkills Shangai | Start Cloud Computing</p>
+<p align="left">✨ Estudante ávido desde 2022<br>📚 Atualmente buscando me tornar um mestre em tudo relacionado a ferramentas WEB<br>🎯 Objetivo: Alcançar a medalha de ouro em WorldSkills Shangai | Começar Computaçao em Nuvem</p>
+
+---
+
+### 🏆 EXPERIÊNCIA DE DESTAQUE E COMPETIÇÕES
+
+#### **SENAI São Paulo de Informática**
+**Cargo:** Competidor WorldSkills e Instrutor de Treinamento
+**Período:** Janeiro de 2023 – Atualmente
+
+* **Representação Internacional:** Conquistei a **Medalha de Prata na WorldSkills Américas (Chile)** na modalidade Web Development, após obter o Ouro na WorldSkills Brasil.
+* **Excelência Técnica:** Vencedor da **Medalha de Ouro na São Paulo Skills**, demonstrando domínio e excelência na criação de soluções web complexas dentro de rigorosos padrões de tempo e qualidade.
+* **Transferência de Conhecimento:** Atualmente, sou responsável por auxiliar no treinamento e preparação dos próximos competidores que representarão o Brasil na WorldSkills 2027, focando em aprimoramento técnico e estratégico.
+
+---
+
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu trabalho com</h2>
 
 ###
 
