@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é André e eu sou um Desenvolvedor Web do Brasil</p>
+<p align="left">Meu nome é André e eu sou um Desenvolvedor Web</p>
 
 ###
 
