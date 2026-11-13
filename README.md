@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats & Connect
 
 <p align="left">
-  ![Andre's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BrizidoAndre&show_icons=true)
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrizidoAndre&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="left">
